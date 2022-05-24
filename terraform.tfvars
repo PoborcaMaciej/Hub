@@ -1,0 +1,6 @@
+location = "westeurope"
+resourcegroup_name = "hubandspoke"
+HubNetwork_Name = "hub01"
+Spoke01Network_Name = "spoke01"
+Spoke02Network_Name = "spoke02"
+vpn_name = "vpngw"
